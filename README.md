@@ -5,7 +5,7 @@ This converter simply reads and writes the data in a new file, it makes 100% wor
 same type, attached are some files which were converted
 
 The exe files are also provided if someone wants to use the program on a system which doesnot have python or tkinter
-just get the whole folderprovided
+just get the whole zip folder provided
 
 
 
